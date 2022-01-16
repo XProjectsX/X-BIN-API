@@ -1,0 +1,13 @@
+{
+    "name": "@X_Projectss/Bins-Ws-API",
+    "description": "A microservice to fetch bin details from bins.ws",
+    "keywords": [
+        "bins",
+        "api",
+        "deta"
+    ],
+    "repository": "https://github.com/XProjectsX/X-BIN-API",
+    "logo": "https://telegra.ph/file/87c00363c1973f1c53b47.jpg",
+    "success_url": "https://telegram.dog/X_Projectss",
+    "image": "heroku/nodejs"
+}
